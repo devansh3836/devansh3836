@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Devansh Kumar
 🚀 B.Tech CSE Student | MERN Stack Developer | Aspiring Software Engineer |
-Passionate about Web Development, Data Structures & Algorithms, and building real-world projects using modern               technologies.
+Passionate about Web Development, Data Structures & Algorithms, and building real-world projects using modern technologies.
 
 📫 Reach Me At: kdevansh486@gmail.com 😊😊
 
@@ -11,6 +11,7 @@ Passionate about Web Development, Data Structures & Algorithms, and building rea
 - 💬 Ask Me About: React.js, JavaScript, C++, DSA, Web Development
 - 🎥 Content Creator: Sharing engineering life and travel experiences through vlogs
 - ⚡ Fun Fact: I love building projects that solve real-world problems and continuously learning new technologies.
+-    GFG: https://www.geeksforgeeks.org/profile/kdevanmrx1
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devansh_kumar38) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@devansh_vlogs38) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Devansh Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kdevansh486@gmail.com) 
